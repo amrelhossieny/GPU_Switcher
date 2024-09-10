@@ -1,2 +1,3 @@
-# GPU_Switcher
-A Bash script to detect and switch between available GPUs on Linux systems, particularly for hybrid setups with NVIDIA and Intel GPUs. The script provides a user-friendly interface with a typewriter effect, logs actions, and supports GPU switching via prime-select. Ideal for users who need to manage their GPU configuration.
+#GPU Switcher 🚀
+Easily take control of your hybrid GPU setup on Linux! This powerful Bash script detects and switches between available GPUs, making it a breeze to toggle between your NVIDIA and Intel graphics. With a sleek typewriter effect and detailed logging, GPU management has never been this smooth. Perfect for power users and developers who need to optimize their GPU configuration on the fly. Say goodbye to manual GPU switching and hello to seamless performance!
+
